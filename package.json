@@ -1,11 +1,8 @@
 {
-  "name": "lightning",
+  "name": "Lightning",
   "version": "1.0.0",
-  "description": "lightning",
+  "description": "Lightning",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Gul Jenya",
   "license": "ISC"
 }
