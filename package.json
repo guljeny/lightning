@@ -1,7 +1,7 @@
 {
-  "name": "Lightning",
+  "name": "lightning-vi",
   "version": "1.0.0",
-  "description": "Lightning",
+  "description": "lightning",
   "main": "index.js",
   "author": "Gul Jenya",
   "license": "ISC"
