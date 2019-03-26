@@ -4,5 +4,6 @@
   "description": "lightning",
   "main": "index.js",
   "author": "Gul Jenya",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/guljeny/lightning"
 }

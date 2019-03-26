@@ -1,12 +1,12 @@
 const defaultOptions = {
   sectionCount: 30,
   color: "#ff0000",
+  lineWidth: 4,
   offset: 5,
-  speed: 0.17,// 0.00001,
+  speed: 0.17,
   bloom: 4,
   bloomColor: "#ffe6e6",
   bloomWidth: 12,
-  lineWidth: 4,
   levels: 7,
 }
 
