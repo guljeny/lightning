@@ -7,7 +7,7 @@
 `import Lightning from 'lightning-vi'`
 
 ```javascript
-new Lightning(document.querySelector("#l1"))
+new Lightning(document.querySelector("selector"))
 ```
 
 or with options
@@ -24,5 +24,5 @@ const options = {
   levels: 7, // independent parts of the curve 
 }
 
-new Lightning(document.querySelector("#l1"), options)
+new Lightning(document.querySelector("selector"), options)
 ```
