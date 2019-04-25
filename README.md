@@ -1,7 +1,6 @@
 # lightning
 
-[demo](https://guljeny.github.io/lightning/)
-[npm-package](https://www.npmjs.com/package/lightning-vi)
+[demo](https://guljeny.github.io/lightning/) | [npm-package](https://www.npmjs.com/package/lightning-vi)
 
 `npm i lightning-vi --save`
 
