@@ -1,6 +1,6 @@
 {
   "name": "lightning-vi",
-  "version": "1.0.02",
+  "version": "1.0.3",
   "description": "lightning",
   "main": "./src/index.js",
   "author": "Gul Jenya",
